@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Data
 
-Download the Virtual Cell Challenge `training.h5ad` and `validation.h5ad` files and place them anywhere; record the paths.
+Download the Virtual Cell Challenge `training.h5ad` and `validation.h5ad` files (figuring out how to upload them) and place them anywhere; record the paths.
 
 Edit `perturbation_fm/configs/default.yaml` and update:
 
